@@ -3,6 +3,7 @@
 A phone-friendly web remote for [REAPER](https://www.reaper.fm). It runs on REAPER's built-in web interface, so there is nothing to install besides copying two files.
 
 <!-- Add a screenshot here: ![REAPER Remote](docs/screenshot.png) -->
+![REAPER Remote](screenshot.png)
 
 ## Features
 
